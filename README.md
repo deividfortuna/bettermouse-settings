@@ -35,7 +35,7 @@ These configurations include settings for:
 ### Keyboards
 - Apple Internal Keyboard / Trackpad
 - Karabiner DriverKit VirtualHIDKeyboard (v1.6.0 & v1.8.0)
-- Mattijs Magic Keyboard
+- Magic Keyboard with Touch ID and Numeric Keypad (MX Master 4 only)
 
 ### Features Configured
 - Smooth scrolling with customizable acceleration and brake

@@ -7,11 +7,11 @@ BUNDLE_ID="com.naotanhaocan.BetterMouse"
 APP_PATH="/Applications/${APP_NAME}.app"
 
 # Your config on GitHub (RAW URL, not the blob page).
-RAW_CFG_URL="https://raw.githubusercontent.com/MattijsE/bettermouse-settings/main/bm_cfg_8615-mxmaster4.plist"
+RAW_CFG_URL="https://raw.githubusercontent.com/deividfortuna/bettermouse-settings/main/bm_cfg_9010.plist"
 
 # Download location
 DEST_DIR="${HOME}/Downloads"
-DEST_FILE="bm_cfg_8615-mxmaster4.plist"
+DEST_FILE="bm_cfg_9010.plist"
 DEST_PATH="${DEST_DIR}/${DEST_FILE}"
 
 log()  { printf "\033[1;34m[bettermouse]\033[0m %s\n" "$*"; }
